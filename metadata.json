@@ -1,0 +1,6 @@
+{
+  "name": "PeshWarain ~ Wari",
+  "description": "A loved Pakistani table in the Wari neighborhood of Dhaka, Bangladesh. Serving slow-cooked Nalli Nihari, kebabs, butter chicken, and famous special lacchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
